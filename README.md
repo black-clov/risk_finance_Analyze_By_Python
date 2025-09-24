@@ -1,4 +1,4 @@
-By Mouhsine EL MOUDIR
+
 
 [Analyze Buy: A Novel Stock Value Joint-Analysis and Comparison Tool](https://github.com/black-clov/risk_finance_Analyze_By_Python/blob/main/Analyse%20Buy.ipynb)
   * Performs complete comparisons of competitive strategy, financial strength, growth potential, and valuation of two companies through fundamental and technical analysis.
